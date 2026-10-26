@@ -1,6 +1,6 @@
 # 🎯 Desafio Criativo: Planejando Automações com N8N Usando Apenas Bons Prompts
 
-> Atividade prática de Engenharia de Prompt para planejamento de workflows e automações no N8N — Desenvolvido para o Bootcamp da **DIO (Digital Innovation One)**.
+> Atividade prática de Engenharia de Prompt para planejamento de workflows e automações no N8N - Desenvolvido para o Bootcamp da **DIO (Digital Innovation One)**.
 
 ---
 
